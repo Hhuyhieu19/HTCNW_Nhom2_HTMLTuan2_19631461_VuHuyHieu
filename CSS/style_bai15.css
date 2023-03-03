@@ -1,0 +1,24 @@
+#bai15{
+    max-width: 45%;
+    margin: 0px auto;
+    box-shadow: 0 0 10px 1px rgb(129, 110, 110);
+}
+select{
+    width: 25%;
+}
+h1{
+    margin-left: 3px;
+}
+p{
+    margin-left: 3px;
+}
+.input{
+    margin-left: 3px;
+    margin-bottom: 6px;
+}
+#bai15_{
+    max-width: 45%;
+    margin: 0px auto;
+    box-shadow: 0 0 10px 1px rgb(129, 110, 110);
+    margin-top: 25px;
+}

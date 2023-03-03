@@ -1,0 +1,26 @@
+#bai17_a {
+    background-color: rgba(255, 123, 0, 0.753);
+    width: 700px;
+    height: 830px;
+    box-shadow: 0 0 20px 1px rgba(0 ,0 ,0 ,0.4);
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.luachon {
+    text-align: center;
+}
+  
+#bai17_b {
+    background-color: #ffffff;
+    width: 500px;
+    height: 655px;
+    box-shadow: 0 0 20px 1px rgba(0 ,0 ,0 ,0.4);
+    margin: auto;
+}
+.bieumau{
+    margin-left: 10px;
+}
